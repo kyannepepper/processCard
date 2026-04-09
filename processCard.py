@@ -450,3 +450,4 @@ def _safe_float_amount(body):
         return float(body.get("amount", 0))
     except (TypeError, ValueError):
         return 0.0
+
