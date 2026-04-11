@@ -1,0 +1,55 @@
+name: Deploy Lambda to Staging
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+
+    permissions:
+      id-token: write
+      contents: read
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Configure AWS credentials
+        uses: aws-actions/configure-aws-credentials@v4
+        with:
+          role-to-assume: arn:aws:iam::646-5216-5223:role/processCard-role-eq7j5jt5
+          aws-region: us-east-1
+
+      - name: Build
+        run: npm run build
+
+      - name: Create deployment package
+        run: |
+          cd dist   # remove this line entirely if your zip should run from repo root
+          zip -r ../function.zip .
+
+      - name: Update Lambda code
+        run: |
+          aws lambda update-function-code \
+            --function-name processCard \
+            --zip-file fileb://function.zip
+
+      - name: Publish Lambda version
+        id: publish
+        run: |
+          VERSION=$(aws lambda publish-version \
+            --function-name processCard \
+            --query 'Version' \
+            --output text)
+
+          echo "version=$VERSION" >> $GITHUB_OUTPUT
+
+      - name: Update staging alias
+        run: |
+          aws lambda update-alias \
+            --function-name processCard \
+            --name staging \
+            --function-version ${{ steps.publish.outputs.version }}
