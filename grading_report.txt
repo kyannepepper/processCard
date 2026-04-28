@@ -1,0 +1,115 @@
+CARD API GRADING REPORT
+Generated: 2026-03-31 15:33:04
+
+OVERALL SUMMARY
+------------------------------------------------------------------------------------------
+Kyanne: 14/14 passed (0 failed)
+------------------------------------------------------------------------------------------
+Grand total: 14 passed, 0 failed, 14 total
+
+DETAILS
+
+==========================================================================================
+STUDENT: Kyanne
+URL: https://eniunn0qta.execute-api.us-west-2.amazonaws.com/default/processCard
+==========================================================================================
+[PASS] Good debit transaction
+  Expected status: [200]
+  Actual status:   200
+  Message:         Accepted
+  Notes:           ok
+  Time:            3.81s
+------------------------------------------------------------------------------------------
+[PASS] Good credit transaction
+  Expected status: [200]
+  Actual status:   200
+  Message:         Accepted
+  Notes:           ok
+  Time:            0.60s
+------------------------------------------------------------------------------------------
+[PASS] Debit transaction with insufficient funds
+  Expected status: [200]
+  Actual status:   200
+  Message:         Insufficient Funds
+  Notes:           ok
+  Time:            0.57s
+------------------------------------------------------------------------------------------
+[PASS] Credit transaction over limit
+  Expected status: [200]
+  Actual status:   200
+  Message:         Insufficient Funds
+  Notes:           ok
+  Time:            0.58s
+------------------------------------------------------------------------------------------
+[PASS] Bad merchant name
+  Expected status: [400, 401, 403]
+  Actual status:   401
+  Message:         Declined
+  Notes:           ok
+  Time:            0.40s
+------------------------------------------------------------------------------------------
+[PASS] Bad merchant token
+  Expected status: [400, 401, 403]
+  Actual status:   401
+  Message:         Declined
+  Notes:           ok
+  Time:            0.38s
+------------------------------------------------------------------------------------------
+[PASS] Bad account / card number
+  Expected status: [400, 403, 404]
+  Actual status:   403
+  Message:         Declined
+  Notes:           ok
+  Time:            0.50s
+------------------------------------------------------------------------------------------
+[PASS] Bad CVV
+  Expected status: [400, 403]
+  Actual status:   403
+  Message:         Declined
+  Notes:           ok
+  Time:            0.53s
+------------------------------------------------------------------------------------------
+[PASS] Bad expiration date
+  Expected status: [400, 403]
+  Actual status:   403
+  Message:         Declined
+  Notes:           ok
+  Time:            0.50s
+------------------------------------------------------------------------------------------
+[PASS] Bad ZIP code
+  Expected status: [400, 403]
+  Actual status:   403
+  Message:         Declined
+  Notes:           ok
+  Time:            0.53s
+------------------------------------------------------------------------------------------
+[PASS] Missing required field (cvv)
+  Expected status: [400]
+  Actual status:   400
+  Message:         Declined
+  Notes:           ok
+  Time:            0.51s
+------------------------------------------------------------------------------------------
+[PASS] Missing required field (card_holder)
+  Expected status: [400]
+  Actual status:   400
+  Message:         Declined
+  Notes:           ok
+  Time:            0.51s
+------------------------------------------------------------------------------------------
+[PASS] Malformed amount
+  Expected status: [400, 403]
+  Actual status:   403
+  Message:         Declined
+  Notes:           ok
+  Time:            0.50s
+------------------------------------------------------------------------------------------
+[PASS] Invalid card_type
+  Expected status: [400, 403]
+  Actual status:   403
+  Message:         Declined
+  Notes:           ok
+  Time:            0.52s
+------------------------------------------------------------------------------------------
+SUMMARY FOR Kyanne: 14 passed, 0 failed, 14 total
+

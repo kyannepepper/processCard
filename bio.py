@@ -1,0 +1,5 @@
+print("I live in Hurricane UT with my husband and a bunch of dogs on our minecraft world.")
+print("In my free time I like to play minecraft and watch stranger things with my husband. If I have a lot of time I like to go rockclimbing.")
+print("By going to college I hope to learn the skills I need to be a software developer and work from home.")
+print("I have written code in python, javascript, C++, react, react native, vue, C#, C, Assembly, and php. My favorite is javascript because it makes the most sense to me.")
+print("Something unique about me is that I like to design and make clothes!")

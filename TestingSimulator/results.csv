@@ -1,0 +1,501 @@
+run_ts,i,label,bank,merchant_name,message
+04:25:2026 13:28:09,1,ASSIGNMENT - INSUFFICIENT_FUNDS,Tophers Bank,Dutchmans Market,Declined - Invalid Bank or Card Information.
+04:25:2026 13:28:09,2,ASSIGNMENT - Approved,Tophers Bank,Costco,Declined - Invalid Bank or Card Information.
+04:25:2026 13:28:22,3,ASSIGNMENT - Approved,Jeffs Bank,Walmart,Approved.
+04:25:2026 13:28:22,4,ASSIGNMENT - Approved,Jeffs Bank,Cafe Rio,Approved.
+04:25:2026 13:28:23,5,ASSIGNMENT - Approved,Jeffs Bank,Walmart,Approved.
+04:25:2026 13:28:50,6,ASSIGNMENT - Approved,Jeffs Bank,Costco,Error - Bank Not Available.
+04:25:2026 13:28:55,7,ASSIGNMENT - Approved,Jeffs Bank,Cafe Rio,Declined - Insufficient Funds.
+04:25:2026 13:28:56,8,ASSIGNMENT - Approved,Tophers Bank,Smiths,Declined - Invalid Bank or Card Information.
+04:25:2026 13:28:56,9,ASSIGNMENT - INSUFFICIENT_FUNDS,Jank Bank,Benjas Thai Sushi,Error - Bank Not Available.
+04:25:2026 13:28:57,10,ASSIGNMENT - Approved,Jeffs Bank,Walmart,Approved.
+04:25:2026 13:29:03,11,ASSIGNMENT - Approved,Jeffs Bank,Walmart,Approved.
+04:25:2026 13:29:03,12,ASSIGNMENT - Approved,CaliBear,Costco,Declined - Invalid Merchant Credentials.
+04:25:2026 13:29:27,13,ASSIGNMENT - Approved,Jeffs Bank,Costco,Approved.
+04:25:2026 13:29:40,14,ASSIGNMENT - Approved,Jeffs Bank,Cafe Rio,Approved.
+04:25:2026 13:29:40,15,ASSIGNMENT - Approved,Wild West Bank,Wood Ash Rye,Declined - Invalid Bank or Card Information.
+04:25:2026 13:29:41,16,ASSIGNMENT - Approved,Jeffs Bank,Cafe Rio,Approved.
+04:25:2026 13:29:54,17,ASSIGNMENT - Approved,Jeffs Bank,Costco,Declined - Insufficient Funds.
+04:25:2026 13:29:54,18,ASSIGNMENT - Approved,Wild West Bank,Mortys Cafe,Declined - Invalid Bank or Card Information.
+04:25:2026 13:29:55,19,ASSIGNMENT - Approved,Jeffs Bank,Smiths,Declined - Insufficient Funds.
+04:25:2026 13:30:22,20,ASSIGNMENT - Approved,Jeffs Bank,Pica Rica BBQ,Error - Bank Not Available.
+04:25:2026 13:30:27,21,ASSIGNMENT - Approved,Jeffs Bank,Costco,Declined - Insufficient Funds.
+04:25:2026 13:30:28,22,ASSIGNMENT - INSUFFICIENT_FUNDS,Tophers Bank,Walmart,Declined - Invalid Bank or Card Information.
+04:25:2026 13:30:54,23,ASSIGNMENT - Approved,Jeffs Bank,Walmart,Error - Bank Not Available.
+04:25:2026 13:30:55,24,ASSIGNMENT - Approved,Tophers Bank,Cafe Rio,Declined - Invalid Bank or Card Information.
+04:25:2026 13:30:56,25,ASSIGNMENT - INSUFFICIENT_FUNDS,Corbin Bank,Costco,Declined - Invalid Bank or Card Information.
+04:25:2026 13:31:19,26,ASSIGNMENT - Approved,Jeffs Bank,Walmart,Declined - Insufficient Funds.
+04:25:2026 13:31:20,27,ASSIGNMENT - Approved,Corbin Bank,Swig,Declined - Invalid Bank or Card Information.
+04:25:2026 13:31:20,28,ASSIGNMENT - BAD_TOKEN,Wild West Bank,Walmart,Declined - Invalid Merchant Credentials.
+04:25:2026 13:31:21,29,ASSIGNMENT - Approved,CaliBear,Smiths,Declined - Invalid Merchant Credentials.
+04:25:2026 13:31:21,30,ASSIGNMENT - Approved,Tophers Bank,Swig,Declined - Invalid Bank or Card Information.
+04:25:2026 13:31:22,31,ASSIGNMENT - Approved,Corbin Bank,Cafe Rio,Declined - Invalid Bank or Card Information.
+04:25:2026 13:31:23,32,ASSIGNMENT - INSUFFICIENT_FUNDS,Corbin Bank,Costco,Declined - Invalid Bank or Card Information.
+04:25:2026 13:31:23,33,ASSIGNMENT - BAD_TOKEN,Wild West Bank,Walmart,Declined - Invalid Merchant Credentials.
+04:25:2026 13:31:24,34,ASSIGNMENT - Approved,Jeffs Bank,Costco,Declined - Insufficient Funds.
+04:25:2026 13:31:24,35,ASSIGNMENT - Approved,Tophers Bank,Rancheritos Mexican Food,Declined - Invalid Bank or Card Information.
+04:25:2026 13:31:25,36,ASSIGNMENT - Approved,CaliBear,Arctic Circle,Declined - Invalid Merchant Credentials.
+04:25:2026 13:31:38,37,ASSIGNMENT - INSUFFICIENT_FUNDS,Jeffs Bank,Sues Pet Castle,Approved.
+04:25:2026 13:31:50,38,ASSIGNMENT - BAD_CVV,Jeffs Bank,Costco,Declined - Invalid Merchant Credentials.
+04:25:2026 13:31:51,39,ASSIGNMENT - Approved,Wild West Bank,Swig,Declined - Invalid Bank or Card Information.
+04:25:2026 13:31:57,40,ASSIGNMENT - Approved,Jeffs Bank,Costco,Approved.
+04:25:2026 13:31:57,41,ASSIGNMENT - Approved,CaliBear,Costco,Declined - Invalid Merchant Credentials.
+04:25:2026 13:31:58,42,ASSIGNMENT - Approved,Tophers Bank,Costco,Declined - Invalid Bank or Card Information.
+04:25:2026 13:31:58,43,ASSIGNMENT - Approved,Corbin Bank,Walmart,Declined - Invalid Bank or Card Information.
+04:25:2026 13:32:25,44,ASSIGNMENT - Approved,Jeffs Bank,Walmart,Error - Bank Not Available.
+04:25:2026 13:32:25,45,ASSIGNMENT - BAD_TOKEN,Jeffs Bank,Utah Tech Campus Bookstore,Declined - Invalid Merchant Credentials.
+04:25:2026 13:32:26,46,ASSIGNMENT - Approved,CaliBear,Costco,Declined - Invalid Merchant Credentials.
+04:25:2026 13:32:27,47,ASSIGNMENT - INSUFFICIENT_FUNDS,Tophers Bank,Painted Pony,Declined - Invalid Bank or Card Information.
+04:25:2026 13:32:50,48,ASSIGNMENT - Approved,Jeffs Bank,Costco,Declined - Insufficient Funds.
+04:25:2026 13:33:17,49,ASSIGNMENT - Approved,Jeffs Bank,Costco,Error - Bank Not Available.
+04:25:2026 13:33:18,50,ASSIGNMENT - Approved,Tophers Bank,Smiths,Declined - Invalid Bank or Card Information.
+04:25:2026 13:33:44,51,ASSIGNMENT - Approved,Jeffs Bank,Costco,Error - Bank Not Available.
+04:25:2026 13:33:46,52,ASSIGNMENT - BAD_TOKEN,Corbin Bank,Georges Corner Restaurant,Declined - Invalid Merchant Credentials.
+04:25:2026 13:33:46,53,ASSIGNMENT - Approved,Tophers Bank,Desert Rat,Declined - Invalid Bank or Card Information.
+04:25:2026 13:33:47,54,ASSIGNMENT - Approved,Tophers Bank,Tommys Express Car Wash,Declined - Invalid Bank or Card Information.
+04:25:2026 13:33:47,55,ASSIGNMENT - Approved,CaliBear,Cafe Rio,Declined - Invalid Merchant Credentials.
+04:25:2026 13:34:14,56,ASSIGNMENT - Approved,Jeffs Bank,Walmart,Error - Bank Not Available.
+04:25:2026 13:34:14,57,ASSIGNMENT - Approved,CaliBear,Swig,Declined - Invalid Merchant Credentials.
+04:25:2026 13:34:41,58,ASSIGNMENT - Approved,Jeffs Bank,Costco,Error - Bank Not Available.
+04:25:2026 13:34:41,59,ASSIGNMENT - Approved,CaliBear,Walmart,Declined - Invalid Merchant Credentials.
+04:25:2026 13:34:42,60,ASSIGNMENT - INSUFFICIENT_FUNDS,CaliBear,Cafe Rio,Declined - Invalid Merchant Credentials.
+04:25:2026 13:35:05,61,ASSIGNMENT - Approved,Jeffs Bank,Costco,Declined - Insufficient Funds.
+04:25:2026 13:35:06,62,ASSIGNMENT - Approved,Jeffs Bank,Swig,Approved.
+04:25:2026 13:35:07,63,ASSIGNMENT - Approved,CaliBear,Swig,Declined - Invalid Merchant Credentials.
+04:25:2026 13:35:33,64,ASSIGNMENT - Approved,Jeffs Bank,Costco,Error - Bank Not Available.
+04:25:2026 13:35:34,65,ASSIGNMENT - Approved,Tophers Bank,Costco,Declined - Invalid Bank or Card Information.
+04:25:2026 13:35:34,66,ASSIGNMENT - Approved,Tophers Bank,Taco Amigo,Declined - Invalid Bank or Card Information.
+04:25:2026 13:35:35,67,ASSIGNMENT - Approved,Corbin Bank,Cafe Rio,Declined - Invalid Bank or Card Information.
+04:25:2026 13:35:35,68,ASSIGNMENT - Approved,Corbin Bank,Tagg and Go Car Wash,Declined - Invalid Bank or Card Information.
+04:25:2026 13:35:36,69,ASSIGNMENT - Approved,Jeffs Bank,Smiths,Declined - Insufficient Funds.
+04:25:2026 13:35:36,70,ASSIGNMENT - Approved,CaliBear,Zion Brewery,Declined - Invalid Merchant Credentials.
+04:25:2026 13:36:03,71,ASSIGNMENT - Approved,Jeffs Bank,Walmart,Error - Bank Not Available.
+04:25:2026 13:36:27,72,ASSIGNMENT - Approved,Jeffs Bank,Judds Store,Approved.
+04:25:2026 13:36:27,73,ASSIGNMENT - Approved,Wild West Bank,Swig,Declined - Invalid Bank or Card Information.
+04:25:2026 13:36:28,74,ASSIGNMENT - Approved,Tophers Bank,Costco,Declined - Invalid Bank or Card Information.
+04:25:2026 13:36:28,75,ASSIGNMENT - Approved,Wild West Bank,Walmart,Declined - Invalid Bank or Card Information.
+04:25:2026 13:36:29,76,ASSIGNMENT - Approved,Tophers Bank,Swig,Declined - Invalid Bank or Card Information.
+04:25:2026 13:36:30,77,ASSIGNMENT - Approved,Tophers Bank,Walmart,Declined - Invalid Bank or Card Information.
+04:25:2026 13:36:56,78,ASSIGNMENT - Approved,Jeffs Bank,Smiths,Error - Bank Not Available.
+04:25:2026 13:37:23,79,ASSIGNMENT - Approved,Jeffs Bank,Costco,Error - Bank Not Available.
+04:25:2026 13:37:23,80,ASSIGNMENT - Approved,Tophers Bank,Smiths,Declined - Invalid Bank or Card Information.
+04:25:2026 13:37:23,81,ASSIGNMENT - Approved,Tophers Bank,Swig,Service Unavailable
+04:25:2026 13:37:24,82,ASSIGNMENT - Approved,CaliBear,Cafe Rio,Declined - Invalid Merchant Credentials.
+04:25:2026 13:37:24,83,ASSIGNMENT - Approved,Wild West Bank,Costco,Service Unavailable
+04:25:2026 13:37:25,84,ASSIGNMENT - Approved,Tophers Bank,Walmart,Declined - Invalid Bank or Card Information.
+04:25:2026 13:37:25,85,ASSIGNMENT - Approved,Jeffs Bank,Smiths,Service Unavailable
+04:25:2026 13:37:25,86,ASSIGNMENT - Approved,Jeffs Bank,Costco,Service Unavailable
+04:25:2026 13:37:25,87,ASSIGNMENT - Approved,Jeffs Bank,Walmart,Service Unavailable
+04:25:2026 13:37:26,88,ASSIGNMENT - Approved,Corbin Bank,Nielsens Frozen Custard,Declined - Invalid Bank or Card Information.
+04:25:2026 13:37:26,89,ASSIGNMENT - Approved,Wild West Bank,Rancheritos Mexican Food,Service Unavailable
+04:25:2026 13:37:39,90,ASSIGNMENT - Approved,Jeffs Bank,Walmart,Declined - Insufficient Funds.
+04:25:2026 13:37:39,91,ASSIGNMENT - Approved,CaliBear,Cafe Rio,Service Unavailable
+04:25:2026 13:37:39,92,ASSIGNMENT - Approved,Jeffs Bank,Cafe Rio,Service Unavailable
+04:25:2026 13:37:39,93,ASSIGNMENT - Approved,Jeffs Bank,Walmart,Service Unavailable
+04:25:2026 13:37:39,94,ASSIGNMENT - Approved,Tophers Bank,Cafe Rio,Service Unavailable
+04:25:2026 13:37:39,95,ASSIGNMENT - Approved,Jeffs Bank,Costco,Service Unavailable
+04:25:2026 13:37:40,96,ASSIGNMENT - Approved,Jeffs Bank,Cafe Rio,Service Unavailable
+04:25:2026 13:37:40,97,ASSIGNMENT - Approved,CaliBear,Walmart,Service Unavailable
+04:25:2026 13:37:40,98,ASSIGNMENT - Approved,CaliBear,Station 2 Bar,Service Unavailable
+04:25:2026 13:37:40,99,ASSIGNMENT - Approved,Tophers Bank,Swig,Service Unavailable
+04:25:2026 13:37:40,100,ASSIGNMENT - Approved,Corbin Bank,Walmart,Service Unavailable
+04:25:2026 13:37:40,101,ASSIGNMENT - Approved,Jank Bank,Cafe Rio,Service Unavailable
+04:25:2026 13:37:41,102,ASSIGNMENT - Approved,Tophers Bank,Walmart,Service Unavailable
+04:25:2026 13:37:41,103,ASSIGNMENT - Approved,Jeffs Bank,Walmart,Service Unavailable
+04:25:2026 13:37:41,104,ASSIGNMENT - Approved,Wild West Bank,Arctic Circle,Service Unavailable
+04:25:2026 13:37:41,105,ASSIGNMENT - Approved,Tophers Bank,Walmart,Service Unavailable
+04:25:2026 13:37:41,106,ASSIGNMENT - Approved,Jeffs Bank,Viva Chicken,Service Unavailable
+04:25:2026 13:37:41,107,ASSIGNMENT - Approved,CaliBear,Bear Paw Cafe,Service Unavailable
+04:25:2026 13:37:41,108,ASSIGNMENT - BAD_TOKEN,Tophers Bank,Costco,Service Unavailable
+04:25:2026 13:37:42,109,ASSIGNMENT - BAD_TOKEN,Jeffs Bank,Viva Chicken,Service Unavailable
+04:25:2026 13:37:42,110,ASSIGNMENT - Approved,Wild West Bank,Tommys Express Car Wash,Service Unavailable
+04:25:2026 13:37:42,111,ASSIGNMENT - Approved,Tophers Bank,Arctic Circle,Declined - Invalid Bank or Card Information.
+04:25:2026 13:37:42,112,ASSIGNMENT - Approved,Jank Bank,Swig,Service Unavailable
+04:25:2026 13:37:43,113,ASSIGNMENT - Approved,CaliBear,Cafe Rio,Service Unavailable
+04:25:2026 13:37:43,114,ASSIGNMENT - BAD_CVV,Corbin Bank,Costco,Declined - Invalid Bank or Card Information.
+04:25:2026 13:37:43,115,ASSIGNMENT - Approved,Jeffs Bank,Walmart,Service Unavailable
+04:25:2026 13:37:43,116,ASSIGNMENT - Approved,Wild West Bank,Walmart,Service Unavailable
+04:25:2026 13:37:44,117,ASSIGNMENT - Approved,Tophers Bank,Costco,Service Unavailable
+04:25:2026 13:37:44,118,ASSIGNMENT - Approved,Tophers Bank,Smiths,Declined - Invalid Bank or Card Information.
+04:25:2026 13:37:44,119,ASSIGNMENT - Approved,Jeffs Bank,FeelLove Coffee,Service Unavailable
+04:25:2026 13:37:44,120,ASSIGNMENT - Approved,Jeffs Bank,Swig,Service Unavailable
+04:25:2026 13:37:45,121,ASSIGNMENT - Approved,Tophers Bank,Fiiz Drinks,Service Unavailable
+04:25:2026 13:37:45,122,ASSIGNMENT - BAD_TOKEN,Wild West Bank,Walmart,Service Unavailable
+04:25:2026 13:37:45,123,ASSIGNMENT - Approved,Jeffs Bank,Smiths,Service Unavailable
+04:25:2026 13:37:45,124,ASSIGNMENT - BAD_CVV,Jeffs Bank,Costco,Service Unavailable
+04:25:2026 13:37:45,125,ASSIGNMENT - BAD_CVV,Wild West Bank,Judds Store,Service Unavailable
+04:25:2026 13:37:46,126,ASSIGNMENT - Approved,Tophers Bank,Cafe Rio,Declined - Invalid Bank or Card Information.
+04:25:2026 13:37:46,127,ASSIGNMENT - Approved,Tophers Bank,Smiths,Service Unavailable
+04:25:2026 13:37:46,128,ASSIGNMENT - Approved,Jeffs Bank,Walmart,Service Unavailable
+04:25:2026 13:37:46,129,ASSIGNMENT - Approved,Tophers Bank,Smiths,Service Unavailable
+04:25:2026 13:37:47,130,ASSIGNMENT - Approved,Tophers Bank,Costco,Service Unavailable
+04:25:2026 13:37:47,131,ASSIGNMENT - Approved,Tophers Bank,Arctic Circle,Declined - Invalid Bank or Card Information.
+04:25:2026 13:37:48,132,ASSIGNMENT - Approved,Wild West Bank,Rancheritos Mexican Food,Declined - Invalid Bank or Card Information.
+04:25:2026 13:37:48,133,ASSIGNMENT - Approved,Jeffs Bank,Zion Outfitters,Approved.
+04:25:2026 13:37:54,134,ASSIGNMENT - Approved,Jeffs Bank,Cafe Rio,Declined - Insufficient Funds.
+04:25:2026 13:37:55,135,ASSIGNMENT - Approved,Tophers Bank,Swig,Declined - Invalid Bank or Card Information.
+04:25:2026 13:38:00,136,ASSIGNMENT - Approved,Jeffs Bank,Costa Vida,Declined - Insufficient Funds.
+04:25:2026 13:38:27,137,ASSIGNMENT - Approved,Jeffs Bank,Walmart,Error - Bank Not Available.
+04:25:2026 13:38:53,138,ASSIGNMENT - Approved,Jeffs Bank,Costco,Error - Bank Not Available.
+04:25:2026 13:38:54,139,ASSIGNMENT - Approved,Tophers Bank,Swig,Declined - Invalid Bank or Card Information.
+04:25:2026 13:38:54,140,ASSIGNMENT - INSUFFICIENT_FUNDS,Jeffs Bank,Cafe Rio,Declined - Insufficient Funds.
+04:25:2026 13:39:00,141,ASSIGNMENT - Approved,Jeffs Bank,Arctic Circle,Declined - Insufficient Funds.
+04:25:2026 13:39:01,142,ASSIGNMENT - Approved,Tophers Bank,Cafe Rio,Declined - Invalid Bank or Card Information.
+04:25:2026 13:39:01,143,ASSIGNMENT - Approved,Corbin Bank,Georges Corner Restaurant,Declined - Invalid Bank or Card Information.
+04:25:2026 13:39:02,144,ASSIGNMENT - Approved,Tophers Bank,Swig,Declined - Invalid Bank or Card Information.
+04:25:2026 13:39:02,145,ASSIGNMENT - Approved,Jeffs Bank,Costco,Declined - Insufficient Funds.
+04:25:2026 13:39:03,146,ASSIGNMENT - Approved,Corbin Bank,Red Rock Bicycle,Declined - Invalid Bank or Card Information.
+04:25:2026 13:39:04,147,ASSIGNMENT - Approved,CaliBear,Walmart,Declined - Invalid Merchant Credentials.
+04:25:2026 13:39:04,148,ASSIGNMENT - Approved,Jeffs Bank,Smiths,Declined - Insufficient Funds.
+04:25:2026 13:39:05,149,ASSIGNMENT - Approved,Tophers Bank,Walmart,Declined - Invalid Bank or Card Information.
+04:25:2026 13:39:06,150,ASSIGNMENT - Approved,Wild West Bank,Costco,Declined - Invalid Bank or Card Information.
+04:25:2026 13:39:06,151,ASSIGNMENT - Approved,Wild West Bank,Pica Rica BBQ,Declined - Invalid Bank or Card Information.
+04:25:2026 13:39:12,152,ASSIGNMENT - Approved,Jeffs Bank,Swig,Declined - Insufficient Funds.
+04:25:2026 13:39:12,153,ASSIGNMENT - BAD_CVV,Jeffs Bank,Swig,Declined - Invalid Merchant Credentials.
+04:25:2026 13:39:13,154,ASSIGNMENT - Approved,Tophers Bank,Costco,Declined - Invalid Bank or Card Information.
+04:25:2026 13:39:14,155,ASSIGNMENT - Approved,Jeffs Bank,Smiths,Declined - Insufficient Funds.
+04:25:2026 13:39:37,156,ASSIGNMENT - Approved,Jeffs Bank,Costco,Approved.
+04:25:2026 13:39:38,157,ASSIGNMENT - Approved,CaliBear,Arctic Circle,Declined - Invalid Merchant Credentials.
+04:25:2026 13:40:04,158,ASSIGNMENT - Approved,Jeffs Bank,Cafe Rio,Error - Bank Not Available.
+04:25:2026 13:40:17,159,ASSIGNMENT - Approved,Jeffs Bank,Costco,Declined - Insufficient Funds.
+04:25:2026 13:40:30,160,ASSIGNMENT - Approved,Jeffs Bank,Swig,Declined - Insufficient Funds.
+04:25:2026 13:40:30,161,ASSIGNMENT - Approved,Corbin Bank,Walmart,Declined - Invalid Bank or Card Information.
+04:25:2026 13:40:31,162,ASSIGNMENT - INSUFFICIENT_FUNDS,Tophers Bank,Sakura Japanese Steakhouse,Declined - Invalid Bank or Card Information.
+04:25:2026 13:40:57,163,ASSIGNMENT - Approved,Jeffs Bank,Mortys Cafe,Error - Bank Not Available.
+04:25:2026 13:40:58,164,ASSIGNMENT - Approved,Wild West Bank,Walmart,Declined - Invalid Bank or Card Information.
+04:25:2026 13:40:58,165,ASSIGNMENT - BAD_TOKEN,Wild West Bank,Swig,Declined - Invalid Merchant Credentials.
+04:25:2026 13:41:25,166,ASSIGNMENT - Approved,Jeffs Bank,Cafe Rio,Error - Bank Not Available.
+04:25:2026 13:41:26,167,ASSIGNMENT - Approved,Tophers Bank,Arctic Circle,Declined - Invalid Bank or Card Information.
+04:25:2026 13:41:26,168,ASSIGNMENT - Approved,Wild West Bank,Walmart,Declined - Invalid Bank or Card Information.
+04:25:2026 13:41:27,169,ASSIGNMENT - Approved,Tophers Bank,Zion Brewery,Declined - Invalid Bank or Card Information.
+04:25:2026 13:41:27,170,ASSIGNMENT - Approved,Tophers Bank,Walmart,Declined - Invalid Bank or Card Information.
+04:25:2026 13:41:33,171,ASSIGNMENT - Approved,Jeffs Bank,Rancheritos Mexican Food,Approved.
+04:25:2026 13:41:34,172,ASSIGNMENT - Approved,Wild West Bank,Walmart,Declined - Invalid Bank or Card Information.
+04:25:2026 13:41:46,173,ASSIGNMENT - Approved,Jeffs Bank,Arctic Circle,Declined - Insufficient Funds.
+04:25:2026 13:41:47,174,ASSIGNMENT - Approved,Wild West Bank,Nielsens Frozen Custard,Declined - Invalid Bank or Card Information.
+04:25:2026 13:41:47,175,ASSIGNMENT - Approved,CaliBear,Arctic Circle,Declined - Invalid Merchant Credentials.
+04:25:2026 13:42:14,176,ASSIGNMENT - Approved,Jeffs Bank,Walmart,Error - Bank Not Available.
+04:25:2026 13:42:14,177,ASSIGNMENT - Approved,Tophers Bank,Xetava Gardens Cafe,Declined - Invalid Bank or Card Information.
+04:25:2026 13:42:15,178,ASSIGNMENT - Approved,Tophers Bank,Pizza Factory,Declined - Invalid Bank or Card Information.
+04:25:2026 13:42:42,179,ASSIGNMENT - Approved,Jeffs Bank,Cafe Rio,Error - Bank Not Available.
+04:25:2026 13:43:08,180,ASSIGNMENT - Approved,Jeffs Bank,Pica Rica BBQ,Error - Bank Not Available.
+04:25:2026 13:43:09,181,ASSIGNMENT - Approved,CaliBear,Desert Rat,Declined - Invalid Merchant Credentials.
+04:25:2026 13:43:09,182,ASSIGNMENT - Approved,Jank Bank,Smiths,Error - Bank Not Available.
+04:25:2026 13:43:10,183,ASSIGNMENT - Approved,Wild West Bank,Lins,Declined - Invalid Bank or Card Information.
+04:25:2026 13:43:10,184,ASSIGNMENT - Approved,Tophers Bank,Costco,Declined - Invalid Bank or Card Information.
+04:25:2026 13:43:11,185,ASSIGNMENT - Approved,CaliBear,Costco,Declined - Invalid Merchant Credentials.
+04:25:2026 13:43:11,186,ASSIGNMENT - Approved,Wild West Bank,Cafe Rio,Declined - Invalid Bank or Card Information.
+04:25:2026 13:43:38,187,ASSIGNMENT - Approved,Jeffs Bank,Costco,Error - Bank Not Available.
+04:25:2026 13:44:02,188,ASSIGNMENT - Approved,Jeffs Bank,Walmart,Declined - Insufficient Funds.
+04:25:2026 13:44:02,189,ASSIGNMENT - Approved,Tophers Bank,Swig,Declined - Invalid Bank or Card Information.
+04:25:2026 13:44:03,190,ASSIGNMENT - Approved,Corbin Bank,Xetava Gardens Cafe,Declined - Invalid Bank or Card Information.
+04:25:2026 13:44:29,191,ASSIGNMENT - Approved,Jeffs Bank,Walmart,Error - Bank Not Available.
+04:25:2026 13:44:30,192,ASSIGNMENT - Approved,Wild West Bank,Walmart,Declined - Invalid Bank or Card Information.
+04:25:2026 13:44:43,193,ASSIGNMENT - Approved,Jeffs Bank,Walmart,Approved.
+04:25:2026 13:44:43,194,ASSIGNMENT - Approved,Tophers Bank,Veyo Pies,Declined - Invalid Bank or Card Information.
+04:25:2026 13:45:10,195,ASSIGNMENT - Approved,Jeffs Bank,Walmart,Error - Bank Not Available.
+04:25:2026 13:45:10,196,ASSIGNMENT - BAD_TOKEN,Wild West Bank,Walmart,Declined - Invalid Merchant Credentials.
+04:25:2026 13:45:11,197,ASSIGNMENT - Approved,Tophers Bank,Costco,Declined - Invalid Bank or Card Information.
+04:25:2026 13:45:11,198,ASSIGNMENT - Approved,Jeffs Bank,Arctic Circle,Declined - Insufficient Funds.
+04:25:2026 13:45:17,199,ASSIGNMENT - Approved,Jeffs Bank,Walmart,Approved.
+04:25:2026 13:45:18,200,ASSIGNMENT - Approved,Wild West Bank,Sues Pet Castle,Declined - Invalid Bank or Card Information.
+04:25:2026 13:45:19,201,ASSIGNMENT - Approved,Tophers Bank,Walmart,Declined - Invalid Bank or Card Information.
+04:25:2026 13:45:19,202,ASSIGNMENT - INSUFFICIENT_FUNDS,Tophers Bank,Red Rock Roasting Co,Declined - Invalid Bank or Card Information.
+04:25:2026 13:45:20,203,ASSIGNMENT - BAD_TOKEN,Wild West Bank,Irmitas Casita,Declined - Invalid Merchant Credentials.
+04:25:2026 13:45:20,204,ASSIGNMENT - Approved,Tophers Bank,Swig,Declined - Invalid Bank or Card Information.
+04:25:2026 13:45:21,205,ASSIGNMENT - Approved,Wild West Bank,Nielsens Frozen Custard,Declined - Invalid Bank or Card Information.
+04:25:2026 13:45:47,206,ASSIGNMENT - Approved,Jeffs Bank,Smiths,Error - Bank Not Available.
+04:25:2026 13:45:48,207,ASSIGNMENT - Approved,Tophers Bank,Walmart,Declined - Invalid Bank or Card Information.
+04:25:2026 13:45:48,208,ASSIGNMENT - Approved,Tophers Bank,Red Rock Bicycle,Declined - Invalid Bank or Card Information.
+04:25:2026 13:46:15,209,ASSIGNMENT - Approved,Jeffs Bank,Walmart,Error - Bank Not Available.
+04:25:2026 13:46:16,210,ASSIGNMENT - Approved,Jeffs Bank,Smiths,Declined - Insufficient Funds.
+04:25:2026 13:46:16,211,ASSIGNMENT - Approved,CaliBear,Swig,Declined - Invalid Merchant Credentials.
+04:25:2026 13:46:17,212,ASSIGNMENT - Approved,Wild West Bank,Smiths,Declined - Invalid Bank or Card Information.
+04:25:2026 13:46:17,213,ASSIGNMENT - Approved,Tophers Bank,Swig,Declined - Invalid Bank or Card Information.
+04:25:2026 13:46:18,214,ASSIGNMENT - Approved,Wild West Bank,Smiths,Declined - Invalid Bank or Card Information.
+04:25:2026 13:46:18,215,ASSIGNMENT - Approved,CaliBear,Tagg and Go Car Wash,Declined - Invalid Merchant Credentials.
+04:25:2026 13:46:19,216,ASSIGNMENT - Approved,Tophers Bank,Walmart,Declined - Invalid Bank or Card Information.
+04:25:2026 13:46:43,217,ASSIGNMENT - Approved,Jeffs Bank,Tommys Express Car Wash,Declined - Insufficient Funds.
+04:25:2026 13:46:43,218,ASSIGNMENT - Approved,Jank Bank,Painted Pony,Error - Bank Not Available.
+04:25:2026 13:46:44,219,ASSIGNMENT - Approved,Tophers Bank,Walmart,Declined - Invalid Bank or Card Information.
+04:25:2026 13:46:45,220,ASSIGNMENT - Approved,Jeffs Bank,Walmart,Approved.
+04:25:2026 13:47:11,221,ASSIGNMENT - Approved,Jeffs Bank,Arctic Circle,Error - Bank Not Available.
+04:25:2026 13:47:12,222,ASSIGNMENT - Approved,Jeffs Bank,Smiths,Approved.
+04:25:2026 13:47:12,223,ASSIGNMENT - BAD_TOKEN,Jeffs Bank,FeelLove Coffee,Declined - Invalid Merchant Credentials.
+04:25:2026 13:47:13,224,ASSIGNMENT - BAD_TOKEN,Jeffs Bank,Tommys Express Car Wash,Declined - Invalid Merchant Credentials.
+04:25:2026 13:47:13,225,ASSIGNMENT - Approved,CaliBear,Walmart,Declined - Invalid Merchant Credentials.
+04:25:2026 13:47:14,226,ASSIGNMENT - Approved,CaliBear,Walmart,Declined - Invalid Merchant Credentials.
+04:25:2026 13:47:15,227,ASSIGNMENT - Approved,Wild West Bank,Walmart,Declined - Invalid Bank or Card Information.
+04:25:2026 13:47:15,228,ASSIGNMENT - Approved,Jeffs Bank,Cafe Rio,Declined - Insufficient Funds.
+04:25:2026 13:47:16,229,ASSIGNMENT - Approved,CaliBear,Pizza Factory,Declined - Invalid Merchant Credentials.
+04:25:2026 13:47:42,230,ASSIGNMENT - Approved,Jeffs Bank,Angelicas Mexican Grill,Error - Bank Not Available.
+04:25:2026 13:47:43,231,ASSIGNMENT - Approved,Jank Bank,Cafe Rio,Error - Bank Not Available.
+04:25:2026 13:47:48,232,ASSIGNMENT - Approved,Jeffs Bank,Costco,Declined - Insufficient Funds.
+04:25:2026 13:47:49,233,ASSIGNMENT - Approved,Jank Bank,Cafe Rio,Error - Bank Not Available.
+04:25:2026 13:47:49,234,ASSIGNMENT - Approved,Corbin Bank,Angelicas Mexican Grill,Declined - Invalid Bank or Card Information.
+04:25:2026 13:47:50,235,ASSIGNMENT - Approved,Tophers Bank,Costco,Declined - Invalid Bank or Card Information.
+04:25:2026 13:47:51,236,ASSIGNMENT - Approved,Tophers Bank,Arctic Circle,Declined - Invalid Bank or Card Information.
+04:25:2026 13:47:51,237,ASSIGNMENT - Approved,Wild West Bank,Cliffside Restaurant,Declined - Invalid Bank or Card Information.
+04:25:2026 13:47:57,238,ASSIGNMENT - Approved,Jeffs Bank,Big Shots Golf,Approved.
+04:25:2026 13:48:23,239,ASSIGNMENT - Approved,Jeffs Bank,Cafe Rio,Error - Bank Not Available.
+04:25:2026 13:48:24,240,ASSIGNMENT - Approved,Jank Bank,Arctic Circle,Error - Bank Not Available.
+04:25:2026 13:48:37,241,ASSIGNMENT - Approved,Jeffs Bank,Walmart,Declined - Insufficient Funds.
+04:25:2026 13:48:42,242,ASSIGNMENT - Approved,Jeffs Bank,Arctic Circle,Declined - Insufficient Funds.
+04:25:2026 13:48:43,243,ASSIGNMENT - BAD_CVV,Tophers Bank,Smiths,Declined - Invalid Bank or Card Information.
+04:25:2026 13:48:43,244,ASSIGNMENT - Approved,Tophers Bank,Cafe Rio,Declined - Invalid Bank or Card Information.
+04:25:2026 13:48:44,245,ASSIGNMENT - Approved,Wild West Bank,Utah Tech Campus Bookstore,Declined - Invalid Bank or Card Information.
+04:25:2026 13:48:44,246,ASSIGNMENT - Approved,Wild West Bank,Georges Corner Restaurant,Declined - Invalid Bank or Card Information.
+04:25:2026 13:48:45,247,ASSIGNMENT - Approved,CaliBear,Swig,Declined - Invalid Merchant Credentials.
+04:25:2026 13:48:45,248,ASSIGNMENT - Approved,Tophers Bank,Costco,Declined - Invalid Bank or Card Information.
+04:25:2026 13:48:46,249,ASSIGNMENT - Approved,Jeffs Bank,Costco,Declined - Insufficient Funds.
+04:25:2026 13:48:47,250,ASSIGNMENT - Approved,Tophers Bank,Smiths,Declined - Invalid Bank or Card Information.
+04:25:2026 13:48:47,251,ASSIGNMENT - Approved,CaliBear,Swig,Declined - Invalid Merchant Credentials.
+04:25:2026 13:49:14,252,ASSIGNMENT - Approved,Jeffs Bank,Swig,Error - Bank Not Available.
+04:25:2026 13:49:40,253,ASSIGNMENT - Approved,Jeffs Bank,Painted Pony,Error - Bank Not Available.
+04:25:2026 13:49:53,254,ASSIGNMENT - Approved,Jeffs Bank,Zion Outfitters,Declined - Insufficient Funds.
+04:25:2026 13:49:53,255,ASSIGNMENT - Approved,Corbin Bank,Costco,Declined - Invalid Bank or Card Information.
+04:25:2026 13:49:54,256,ASSIGNMENT - Approved,Corbin Bank,Cliffside Restaurant,Declined - Invalid Bank or Card Information.
+04:25:2026 13:49:55,257,ASSIGNMENT - Approved,Jeffs Bank,Smiths,Declined - Insufficient Funds.
+04:25:2026 13:49:55,258,ASSIGNMENT - Approved,Jeffs Bank,Georges Corner Restaurant,Declined - Insufficient Funds.
+04:25:2026 13:49:56,259,ASSIGNMENT - Approved,Tophers Bank,Red Rock Roasting Co,Declined - Invalid Bank or Card Information.
+04:25:2026 13:49:56,260,ASSIGNMENT - BAD_TOKEN,Jeffs Bank,Sol Foods,Declined - Invalid Merchant Credentials.
+04:25:2026 13:50:20,261,ASSIGNMENT - Approved,Jeffs Bank,Smiths,Declined - Insufficient Funds.
+04:25:2026 13:50:21,262,ASSIGNMENT - Approved,Jeffs Bank,Xetava Gardens Cafe,Declined - Insufficient Funds.
+04:25:2026 13:50:47,263,ASSIGNMENT - Approved,Jeffs Bank,Walmart,Error - Bank Not Available.
+04:25:2026 13:51:14,264,ASSIGNMENT - INSUFFICIENT_FUNDS,Jeffs Bank,Smiths,Error - Bank Not Available.
+04:25:2026 13:51:15,265,ASSIGNMENT - Approved,Jeffs Bank,Desert Rat,Declined - Insufficient Funds.
+04:25:2026 13:51:15,266,ASSIGNMENT - Approved,Tophers Bank,Mortys Cafe,Declined - Invalid Bank or Card Information.
+04:25:2026 13:51:16,267,ASSIGNMENT - BAD_TOKEN,Jeffs Bank,Sweet Rolled Tacos,Declined - Invalid Merchant Credentials.
+04:25:2026 13:51:16,268,ASSIGNMENT - Approved,Wild West Bank,Cafe Rio,Declined - Invalid Bank or Card Information.
+04:25:2026 13:51:40,269,ASSIGNMENT - Approved,Jeffs Bank,Taco Amigo,Declined - Insufficient Funds.
+04:25:2026 13:51:40,270,ASSIGNMENT - Approved,Wild West Bank,Walmart,Declined - Invalid Bank or Card Information.
+04:25:2026 13:51:41,271,ASSIGNMENT - Approved,CaliBear,Station 2 Bar,Declined - Invalid Merchant Credentials.
+04:25:2026 13:51:42,272,ASSIGNMENT - Approved,Tophers Bank,Cafe Rio,Declined - Invalid Bank or Card Information.
+04:25:2026 13:51:47,273,ASSIGNMENT - Approved,Jeffs Bank,Swig,Approved.
+04:25:2026 13:51:48,274,ASSIGNMENT - BAD_TOKEN,Tophers Bank,Cafe Rio,Declined - Invalid Merchant Credentials.
+04:25:2026 13:51:48,275,ASSIGNMENT - Approved,Wild West Bank,Arctic Circle,Declined - Invalid Bank or Card Information.
+04:25:2026 13:51:49,276,ASSIGNMENT - BAD_TOKEN,Jeffs Bank,Swig,Declined - Invalid Merchant Credentials.
+04:25:2026 13:51:49,277,ASSIGNMENT - Approved,Tophers Bank,Bishops Grill,Declined - Invalid Bank or Card Information.
+04:25:2026 13:51:50,278,ASSIGNMENT - Approved,Tophers Bank,Walmart,Declined - Invalid Bank or Card Information.
+04:25:2026 13:51:50,279,ASSIGNMENT - Approved,CaliBear,Benjas Thai Sushi,Declined - Invalid Merchant Credentials.
+04:25:2026 13:51:51,280,ASSIGNMENT - Approved,Tophers Bank,Wood Ash Rye,Declined - Invalid Bank or Card Information.
+04:25:2026 13:51:52,281,ASSIGNMENT - Approved,Tophers Bank,Painted Pony,Declined - Invalid Bank or Card Information.
+04:25:2026 13:51:52,282,ASSIGNMENT - Approved,Tophers Bank,Benjas Thai Sushi,Declined - Invalid Bank or Card Information.
+04:25:2026 13:51:53,283,ASSIGNMENT - Approved,Corbin Bank,Dutchmans Market,Declined - Invalid Bank or Card Information.
+04:25:2026 13:51:53,284,ASSIGNMENT - Approved,Tophers Bank,Viva Chicken,Declined - Invalid Bank or Card Information.
+04:25:2026 13:51:54,285,ASSIGNMENT - Approved,Jeffs Bank,Lins,Declined - Insufficient Funds.
+04:25:2026 13:52:07,286,ASSIGNMENT - Approved,Jeffs Bank,Smiths,Declined - Insufficient Funds.
+04:25:2026 13:52:07,287,ASSIGNMENT - Approved,CaliBear,Arctic Circle,Declined - Invalid Merchant Credentials.
+04:25:2026 13:52:34,288,ASSIGNMENT - Approved,Jeffs Bank,Arctic Circle,Error - Bank Not Available.
+04:25:2026 13:52:35,289,ASSIGNMENT - Approved,Tophers Bank,Walmart,Declined - Invalid Bank or Card Information.
+04:25:2026 13:52:35,290,ASSIGNMENT - INSUFFICIENT_FUNDS,Tophers Bank,Walmart,Declined - Invalid Bank or Card Information.
+04:25:2026 13:52:36,291,ASSIGNMENT - Approved,Tophers Bank,Cappellettis,Declined - Invalid Bank or Card Information.
+04:25:2026 13:52:42,292,ASSIGNMENT - Approved,Jeffs Bank,Walmart,Approved.
+04:25:2026 13:52:42,293,ASSIGNMENT - Approved,Tophers Bank,Walmart,Declined - Invalid Bank or Card Information.
+04:25:2026 13:52:43,294,ASSIGNMENT - Approved,Tophers Bank,Fiiz Drinks,Declined - Invalid Bank or Card Information.
+04:25:2026 13:52:43,295,ASSIGNMENT - Approved,Wild West Bank,Swig,Declined - Invalid Bank or Card Information.
+04:25:2026 13:52:56,296,ASSIGNMENT - Approved,Jeffs Bank,Smiths,Declined - Insufficient Funds.
+04:25:2026 13:52:57,297,ASSIGNMENT - Approved,Jeffs Bank,Benjas Thai Sushi,Declined - Insufficient Funds.
+04:25:2026 13:52:57,298,ASSIGNMENT - Approved,Jeffs Bank,Zion Brewery,Declined - Insufficient Funds.
+04:25:2026 13:52:58,299,ASSIGNMENT - Approved,Corbin Bank,Tifinys Creperie,Declined - Invalid Bank or Card Information.
+04:25:2026 13:52:59,300,ASSIGNMENT - Approved,Tophers Bank,Walmart,Declined - Invalid Bank or Card Information.
+04:25:2026 13:52:59,301,ASSIGNMENT - Approved,Wild West Bank,Smiths,Declined - Invalid Bank or Card Information.
+04:25:2026 13:53:00,302,ASSIGNMENT - BAD_TOKEN,Jeffs Bank,Arctic Circle,Declined - Invalid Merchant Credentials.
+04:25:2026 13:53:23,303,ASSIGNMENT - Approved,Jeffs Bank,Costco,Declined - Insufficient Funds.
+04:25:2026 13:53:24,304,ASSIGNMENT - Approved,Tophers Bank,Walmart,Declined - Invalid Bank or Card Information.
+04:25:2026 13:53:25,305,ASSIGNMENT - Approved,Tophers Bank,Angelicas Mexican Grill,Declined - Invalid Bank or Card Information.
+04:25:2026 13:53:25,306,ASSIGNMENT - Approved,Tophers Bank,Walmart,Declined - Invalid Bank or Card Information.
+04:25:2026 13:53:52,307,ASSIGNMENT - Approved,Jeffs Bank,Walmart,Error - Bank Not Available.
+04:25:2026 13:53:52,308,ASSIGNMENT - Approved,Tophers Bank,Cafe Rio,Declined - Invalid Bank or Card Information.
+04:25:2026 13:53:53,309,ASSIGNMENT - Approved,Wild West Bank,Swig,Declined - Invalid Bank or Card Information.
+04:25:2026 13:53:53,310,ASSIGNMENT - Approved,Tophers Bank,Costco,Declined - Invalid Bank or Card Information.
+04:25:2026 13:53:59,311,ASSIGNMENT - Approved,Jeffs Bank,Tagg and Go Car Wash,Declined - Insufficient Funds.
+04:25:2026 13:54:25,312,ASSIGNMENT - Approved,Jeffs Bank,Cafe Rio,Error - Bank Not Available.
+04:25:2026 13:54:26,313,ASSIGNMENT - Approved,Jank Bank,Pica Rica BBQ,Error - Bank Not Available.
+04:25:2026 13:54:27,314,ASSIGNMENT - Approved,Jeffs Bank,Arctic Circle,Declined - Insufficient Funds.
+04:25:2026 13:54:27,315,ASSIGNMENT - Approved,Tophers Bank,Walmart,Declined - Invalid Bank or Card Information.
+04:25:2026 13:54:28,316,ASSIGNMENT - Approved,Corbin Bank,Sweet Rolled Tacos,Declined - Invalid Bank or Card Information.
+04:25:2026 13:54:28,317,ASSIGNMENT - Approved,Tophers Bank,Walmart,Declined - Invalid Bank or Card Information.
+04:25:2026 13:54:29,318,ASSIGNMENT - BAD_TOKEN,Wild West Bank,Costco,Declined - Invalid Merchant Credentials.
+04:25:2026 13:54:29,319,ASSIGNMENT - Approved,Tophers Bank,Costa Vida,Declined - Invalid Bank or Card Information.
+04:25:2026 13:54:30,320,ASSIGNMENT - Approved,CaliBear,Walmart,Declined - Invalid Merchant Credentials.
+04:25:2026 13:54:31,321,ASSIGNMENT - Approved,Tophers Bank,Cappellettis,Declined - Invalid Bank or Card Information.
+04:25:2026 13:54:32,322,ASSIGNMENT - Approved,Tophers Bank,Walmart,Declined - Invalid Bank or Card Information.
+04:25:2026 13:54:33,323,ASSIGNMENT - Approved,Jeffs Bank,Walmart,Declined - Insufficient Funds.
+04:25:2026 13:54:33,324,ASSIGNMENT - INSUFFICIENT_FUNDS,Jeffs Bank,Smiths,Approved.
+04:25:2026 13:54:34,325,ASSIGNMENT - Approved,CaliBear,Benjas Thai Sushi,Declined - Invalid Merchant Credentials.
+04:25:2026 13:54:35,326,ASSIGNMENT - Approved,Jank Bank,Costco,Error - Bank Not Available.
+04:25:2026 13:54:35,327,ASSIGNMENT - Approved,Jeffs Bank,Costco,Approved.
+04:25:2026 13:54:36,328,ASSIGNMENT - BAD_CVV,Tophers Bank,Walmart,Declined - Invalid Bank or Card Information.
+04:25:2026 13:54:37,329,ASSIGNMENT - Approved,Jeffs Bank,Zion Brewery,Declined - Insufficient Funds.
+04:25:2026 13:54:42,330,ASSIGNMENT - Approved,Jeffs Bank,Arctic Circle,Approved.
+04:25:2026 13:54:43,331,ASSIGNMENT - Approved,Wild West Bank,Rancheritos Mexican Food,Declined - Invalid Bank or Card Information.
+04:25:2026 13:54:44,332,ASSIGNMENT - Approved,Jeffs Bank,Arctic Circle,Approved.
+04:25:2026 13:54:44,333,ASSIGNMENT - Approved,Tophers Bank,Cliffside Restaurant,Declined - Invalid Bank or Card Information.
+04:25:2026 13:54:45,334,ASSIGNMENT - Approved,Tophers Bank,Smiths,Declined - Invalid Bank or Card Information.
+04:25:2026 13:54:45,335,ASSIGNMENT - INSUFFICIENT_FUNDS,Tophers Bank,Angelicas Mexican Grill,Declined - Invalid Bank or Card Information.
+04:25:2026 13:54:46,336,ASSIGNMENT - Approved,CaliBear,Walmart,Declined - Invalid Merchant Credentials.
+04:25:2026 13:54:47,337,ASSIGNMENT - INSUFFICIENT_FUNDS,Wild West Bank,Walmart,Declined - Invalid Bank or Card Information.
+04:25:2026 13:54:47,338,ASSIGNMENT - Approved,Wild West Bank,Costco,Declined - Invalid Bank or Card Information.
+04:25:2026 13:54:48,339,ASSIGNMENT - Approved,Jeffs Bank,Swig,Declined - Insufficient Funds.
+04:25:2026 13:54:48,340,ASSIGNMENT - BAD_TOKEN,Wild West Bank,Swig,Declined - Invalid Merchant Credentials.
+04:25:2026 13:54:54,341,ASSIGNMENT - Approved,Jeffs Bank,Arctic Circle,Declined - Insufficient Funds.
+04:25:2026 13:54:55,342,ASSIGNMENT - Approved,Tophers Bank,Bear Paw Cafe,Declined - Invalid Bank or Card Information.
+04:25:2026 13:54:56,343,ASSIGNMENT - Approved,Tophers Bank,Cafe Rio,Declined - Invalid Bank or Card Information.
+04:25:2026 13:54:56,344,ASSIGNMENT - Approved,Jeffs Bank,Walmart,Declined - Insufficient Funds.
+04:25:2026 13:55:02,345,ASSIGNMENT - Approved,Jeffs Bank,Costco,Declined - Insufficient Funds.
+04:25:2026 13:55:02,346,ASSIGNMENT - Approved,Jank Bank,Swig,Error - Bank Not Available.
+04:25:2026 13:55:03,347,ASSIGNMENT - Approved,Tophers Bank,Walmart,Declined - Invalid Bank or Card Information.
+04:25:2026 13:55:09,348,ASSIGNMENT - Approved,Jeffs Bank,Cafe Rio,Declined - Insufficient Funds.
+04:25:2026 13:55:32,349,ASSIGNMENT - Approved,Jeffs Bank,Walmart,Declined - Insufficient Funds.
+04:25:2026 13:55:33,350,ASSIGNMENT - Approved,Tophers Bank,Walmart,Declined - Invalid Bank or Card Information.
+04:25:2026 13:55:34,351,ASSIGNMENT - Approved,CaliBear,Cafe Rio,Declined - Invalid Merchant Credentials.
+04:25:2026 13:55:39,352,ASSIGNMENT - Approved,Jeffs Bank,Walmart,Declined - Insufficient Funds.
+04:25:2026 13:55:40,353,ASSIGNMENT - BAD_TOKEN,Tophers Bank,Smiths,Declined - Invalid Merchant Credentials.
+04:25:2026 13:55:40,354,ASSIGNMENT - Approved,CaliBear,Cafe Rio,Declined - Invalid Merchant Credentials.
+04:25:2026 13:55:46,355,ASSIGNMENT - Approved,Jeffs Bank,Costco,Approved.
+04:25:2026 13:55:46,356,ASSIGNMENT - Approved,CaliBear,Walmart,Declined - Invalid Merchant Credentials.
+04:25:2026 13:55:47,357,ASSIGNMENT - Approved,Wild West Bank,Walmart,Declined - Invalid Bank or Card Information.
+04:25:2026 13:55:48,358,ASSIGNMENT - Approved,Tophers Bank,Walmart,Declined - Invalid Bank or Card Information.
+04:25:2026 13:55:48,359,ASSIGNMENT - Approved,Jeffs Bank,Walmart,Declined - Insufficient Funds.
+04:25:2026 13:55:49,360,ASSIGNMENT - Approved,Wild West Bank,Swig,Declined - Invalid Bank or Card Information.
+04:25:2026 13:55:49,361,ASSIGNMENT - Approved,Jeffs Bank,Walmart,Approved.
+04:25:2026 13:55:50,362,ASSIGNMENT - Approved,Wild West Bank,Swig,Declined - Invalid Bank or Card Information.
+04:25:2026 13:55:51,363,ASSIGNMENT - Approved,Corbin Bank,Cafe Rio,Declined - Invalid Bank or Card Information.
+04:25:2026 13:55:51,364,ASSIGNMENT - BAD_CVV,CaliBear,Rancheritos Mexican Food,Declined - Invalid Merchant Credentials.
+04:25:2026 13:55:57,365,ASSIGNMENT - Approved,Jeffs Bank,gigi gelati,Declined - Insufficient Funds.
+04:25:2026 13:55:57,366,ASSIGNMENT - Approved,Jeffs Bank,Smiths,Approved.
+04:25:2026 13:55:58,367,ASSIGNMENT - Approved,Tophers Bank,Costco,Declined - Invalid Bank or Card Information.
+04:25:2026 13:56:04,368,ASSIGNMENT - Approved,Jeffs Bank,Cafe Rio,Declined - Insufficient Funds.
+04:25:2026 13:56:04,369,ASSIGNMENT - Approved,Wild West Bank,Costco,Declined - Invalid Bank or Card Information.
+04:25:2026 13:56:05,370,ASSIGNMENT - Approved,Tophers Bank,Smiths,Declined - Invalid Bank or Card Information.
+04:25:2026 13:56:06,371,ASSIGNMENT - Approved,Corbin Bank,Costco,Declined - Invalid Bank or Card Information.
+04:25:2026 13:56:06,372,ASSIGNMENT - INSUFFICIENT_FUNDS,Tophers Bank,Arctic Circle,Declined - Invalid Bank or Card Information.
+04:25:2026 13:56:07,373,ASSIGNMENT - Approved,Tophers Bank,Utah Tech Campus Bookstore,Declined - Invalid Bank or Card Information.
+04:25:2026 13:56:07,374,ASSIGNMENT - Approved,CaliBear,Smiths,Declined - Invalid Merchant Credentials.
+04:25:2026 13:56:08,375,ASSIGNMENT - Approved,Wild West Bank,Smiths,Declined - Invalid Bank or Card Information.
+04:25:2026 13:56:08,376,ASSIGNMENT - Approved,Wild West Bank,Contact Climbing,Declined - Invalid Bank or Card Information.
+04:25:2026 13:56:14,377,ASSIGNMENT - Approved,Jeffs Bank,Costco,Declined - Insufficient Funds.
+04:25:2026 13:56:41,378,ASSIGNMENT - Approved,Jeffs Bank,Pica Rica BBQ,Error - Bank Not Available.
+04:25:2026 13:56:44,379,ASSIGNMENT - Approved,Corbin Bank,Station 2 Bar,Declined - Invalid Bank or Card Information.
+04:25:2026 13:57:11,380,ASSIGNMENT - Approved,Jeffs Bank,Sol Foods,Error - Bank Not Available.
+04:25:2026 13:57:11,381,ASSIGNMENT - Approved,Tophers Bank,Nielsens Frozen Custard,Declined - Invalid Bank or Card Information.
+04:25:2026 13:57:12,382,ASSIGNMENT - Approved,Tophers Bank,Walmart,Declined - Invalid Bank or Card Information.
+04:25:2026 13:57:12,383,ASSIGNMENT - Approved,Jeffs Bank,Zion Outfitters,Approved.
+04:25:2026 13:57:13,384,ASSIGNMENT - Approved,Corbin Bank,Smiths,Declined - Invalid Bank or Card Information.
+04:25:2026 13:57:14,385,ASSIGNMENT - INSUFFICIENT_FUNDS,Tophers Bank,Costco,Declined - Invalid Bank or Card Information.
+04:25:2026 13:57:14,386,ASSIGNMENT - Approved,Tophers Bank,Smiths,Declined - Invalid Bank or Card Information.
+04:25:2026 13:57:15,387,ASSIGNMENT - Approved,Wild West Bank,Costco,Declined - Invalid Bank or Card Information.
+04:25:2026 13:57:15,388,ASSIGNMENT - Approved,Jeffs Bank,Walmart,Declined - Insufficient Funds.
+04:25:2026 13:57:28,389,ASSIGNMENT - Approved,Jeffs Bank,Cliffside Restaurant,Declined - Insufficient Funds.
+04:25:2026 13:57:28,390,ASSIGNMENT - BAD_TOKEN,CaliBear,Smiths,Declined - Invalid Merchant Credentials.
+04:25:2026 13:57:55,391,ASSIGNMENT - Approved,Jeffs Bank,Walmart,Error - Bank Not Available.
+04:25:2026 13:57:55,392,ASSIGNMENT - INSUFFICIENT_FUNDS,CaliBear,Bishops Grill,Declined - Invalid Merchant Credentials.
+04:25:2026 13:58:22,393,ASSIGNMENT - Approved,Jeffs Bank,Costco,Error - Bank Not Available.
+04:25:2026 13:58:49,394,ASSIGNMENT - Approved,Jeffs Bank,Walmart,Error - Bank Not Available.
+04:25:2026 13:58:49,395,ASSIGNMENT - BAD_TOKEN,Jeffs Bank,Smiths,Declined - Invalid Merchant Credentials.
+04:25:2026 13:58:55,396,ASSIGNMENT - Approved,Jeffs Bank,Smiths,Declined - Insufficient Funds.
+04:25:2026 13:58:55,397,ASSIGNMENT - Approved,Tophers Bank,Costco,Declined - Invalid Bank or Card Information.
+04:25:2026 13:59:22,398,ASSIGNMENT - Approved,Jeffs Bank,Swig,Error - Bank Not Available.
+04:25:2026 13:59:45,399,ASSIGNMENT - Approved,Jeffs Bank,Costco,Declined - Insufficient Funds.
+04:25:2026 13:59:46,400,ASSIGNMENT - Approved,Tophers Bank,Costco,Declined - Invalid Bank or Card Information.
+04:25:2026 13:59:47,401,ASSIGNMENT - Approved,Wild West Bank,Angelicas Mexican Grill,Declined - Invalid Bank or Card Information.
+04:25:2026 13:59:47,402,ASSIGNMENT - Approved,CaliBear,Bishops Grill,Declined - Invalid Merchant Credentials.
+04:25:2026 13:59:48,403,ASSIGNMENT - Approved,Wild West Bank,Sweet Rolled Tacos,Declined - Invalid Bank or Card Information.
+04:25:2026 13:59:48,404,ASSIGNMENT - Approved,Wild West Bank,Costco,Declined - Invalid Bank or Card Information.
+04:25:2026 13:59:49,405,ASSIGNMENT - Approved,Wild West Bank,Swig,Declined - Invalid Bank or Card Information.
+04:25:2026 14:00:15,406,ASSIGNMENT - Approved,Jeffs Bank,Walmart,Error - Bank Not Available.
+04:25:2026 14:00:16,407,ASSIGNMENT - Approved,Jeffs Bank,Walmart,Approved.
+04:25:2026 14:00:40,408,ASSIGNMENT - Approved,Jeffs Bank,Smiths,Declined - Insufficient Funds.
+04:25:2026 14:00:45,409,ASSIGNMENT - Approved,Jeffs Bank,Arctic Circle,Declined - Insufficient Funds.
+04:25:2026 14:00:46,410,ASSIGNMENT - Approved,Jank Bank,Cafe Rio,Error - Bank Not Available.
+04:25:2026 14:00:47,411,ASSIGNMENT - Approved,Jeffs Bank,Swig,Declined - Insufficient Funds.
+04:25:2026 14:00:47,412,ASSIGNMENT - Approved,Jeffs Bank,Cafe Rio,Declined - Insufficient Funds.
+04:25:2026 14:01:00,413,ASSIGNMENT - Approved,Jeffs Bank,Costco,Approved.
+04:25:2026 14:01:23,414,ASSIGNMENT - INSUFFICIENT_FUNDS,Jeffs Bank,Tagg and Go Car Wash,Declined - Insufficient Funds.
+04:25:2026 14:01:24,415,ASSIGNMENT - Approved,Wild West Bank,Arctic Circle,Declined - Invalid Bank or Card Information.
+04:25:2026 14:01:25,416,ASSIGNMENT - BAD_CVV,Tophers Bank,Smiths,Declined - Invalid Bank or Card Information.
+04:25:2026 14:01:25,417,ASSIGNMENT - Approved,Tophers Bank,Walmart,Declined - Invalid Bank or Card Information.
+04:25:2026 14:01:26,418,ASSIGNMENT - Approved,Jeffs Bank,Cafe Rio,Approved.
+04:25:2026 14:01:26,419,ASSIGNMENT - Approved,Tophers Bank,Smiths,Declined - Invalid Bank or Card Information.
+04:25:2026 14:01:27,420,ASSIGNMENT - Approved,Jeffs Bank,Zion Outfitters,Declined - Insufficient Funds.
+04:25:2026 14:01:28,421,ASSIGNMENT - Approved,Tophers Bank,Cafe Rio,Declined - Invalid Bank or Card Information.
+04:25:2026 14:01:28,422,ASSIGNMENT - Approved,CaliBear,Lins,Declined - Invalid Merchant Credentials.
+04:25:2026 14:01:29,423,ASSIGNMENT - Approved,Jeffs Bank,Riggattis Pizza,Approved.
+04:25:2026 14:01:29,424,ASSIGNMENT - BAD_TOKEN,Tophers Bank,Pica Rica BBQ,Declined - Invalid Merchant Credentials.
+04:25:2026 14:01:30,425,ASSIGNMENT - BAD_CVV,Jeffs Bank,Walmart,Declined - Invalid Merchant Credentials.
+04:25:2026 14:01:31,426,ASSIGNMENT - Approved,Tophers Bank,Walmart,Declined - Invalid Bank or Card Information.
+04:25:2026 14:01:31,427,ASSIGNMENT - Approved,Jeffs Bank,Costco,Declined - Insufficient Funds.
+04:25:2026 14:01:32,428,ASSIGNMENT - Approved,CaliBear,Arctic Circle,Declined - Invalid Merchant Credentials.
+04:25:2026 14:01:32,429,ASSIGNMENT - Approved,Corbin Bank,Smiths,Declined - Invalid Bank or Card Information.
+04:25:2026 14:01:33,430,ASSIGNMENT - Approved,Jeffs Bank,Bear Paw Cafe,Approved.
+04:25:2026 14:01:33,431,ASSIGNMENT - Approved,Corbin Bank,Smiths,Declined - Invalid Bank or Card Information.
+04:25:2026 14:01:34,432,ASSIGNMENT - Approved,Jank Bank,Red Rock Bicycle,Error - Bank Not Available.
+04:25:2026 14:01:34,433,ASSIGNMENT - Approved,Corbin Bank,Costco,Declined - Invalid Bank or Card Information.
+04:25:2026 14:01:35,434,ASSIGNMENT - Approved,Tophers Bank,Viva Chicken,Declined - Invalid Bank or Card Information.
+04:25:2026 14:01:36,435,ASSIGNMENT - Approved,Wild West Bank,Judds Store,Declined - Invalid Bank or Card Information.
+04:25:2026 14:01:36,436,ASSIGNMENT - INSUFFICIENT_FUNDS,Jeffs Bank,Cafe Rio,Declined - Insufficient Funds.
+04:25:2026 14:01:37,437,ASSIGNMENT - INSUFFICIENT_FUNDS,Tophers Bank,Costco,Declined - Invalid Bank or Card Information.
+04:25:2026 14:01:42,438,ASSIGNMENT - Approved,Jeffs Bank,Cafe Rio,Declined - Insufficient Funds.
+04:25:2026 14:01:55,439,ASSIGNMENT - Approved,Jeffs Bank,Cafe Rio,Declined - Insufficient Funds.
+04:25:2026 14:01:56,440,ASSIGNMENT - Approved,Tophers Bank,Swig,Declined - Invalid Bank or Card Information.
+04:25:2026 14:02:22,441,ASSIGNMENT - Approved,Jeffs Bank,Walmart,Error - Bank Not Available.
+04:25:2026 14:02:23,442,ASSIGNMENT - Approved,Tophers Bank,Tommys Express Car Wash,Declined - Invalid Bank or Card Information.
+04:25:2026 14:02:24,443,ASSIGNMENT - Approved,Jeffs Bank,Costa Vida,Approved.
+04:25:2026 14:02:29,444,ASSIGNMENT - Approved,Jeffs Bank,Desert Rat,Declined - Insufficient Funds.
+04:25:2026 14:02:42,445,ASSIGNMENT - Approved,Jeffs Bank,Smiths,Declined - Insufficient Funds.
+04:25:2026 14:02:43,446,ASSIGNMENT - Approved,CaliBear,Costco,Declined - Invalid Merchant Credentials.
+04:25:2026 14:02:43,447,ASSIGNMENT - Approved,Tophers Bank,Tommys Express Car Wash,Declined - Invalid Bank or Card Information.
+04:25:2026 14:02:44,448,ASSIGNMENT - Approved,Corbin Bank,Arctic Circle,Declined - Invalid Bank or Card Information.
+04:25:2026 14:02:44,449,ASSIGNMENT - INSUFFICIENT_FUNDS,Tophers Bank,Costco,Declined - Invalid Bank or Card Information.
+04:25:2026 14:02:45,450,ASSIGNMENT - Approved,Wild West Bank,Costco,Declined - Invalid Bank or Card Information.
+04:25:2026 14:02:45,451,ASSIGNMENT - Approved,Tophers Bank,Walmart,Declined - Invalid Bank or Card Information.
+04:25:2026 14:02:46,452,ASSIGNMENT - Approved,Wild West Bank,Costco,Declined - Invalid Bank or Card Information.
+04:25:2026 14:02:46,453,ASSIGNMENT - Approved,Wild West Bank,Sol Foods,Declined - Invalid Bank or Card Information.
+04:25:2026 14:02:47,454,ASSIGNMENT - Approved,Tophers Bank,Station 2 Bar,Declined - Invalid Bank or Card Information.
+04:25:2026 14:02:53,455,ASSIGNMENT - Approved,Jeffs Bank,Riggattis Pizza,Declined - Insufficient Funds.
+04:25:2026 14:03:16,456,ASSIGNMENT - BAD_CVV,Jeffs Bank,Cafe Rio,Declined - Invalid Merchant Credentials.
+04:25:2026 14:03:43,457,ASSIGNMENT - Approved,Jeffs Bank,Walmart,Error - Bank Not Available.
+04:25:2026 14:04:09,458,ASSIGNMENT - Approved,Jeffs Bank,Teriyaki Grill,Error - Bank Not Available.
+04:25:2026 14:04:10,459,ASSIGNMENT - Approved,Tophers Bank,Walmart,Declined - Invalid Bank or Card Information.
+04:25:2026 14:04:11,460,ASSIGNMENT - Approved,Tophers Bank,Costco,Declined - Invalid Bank or Card Information.
+04:25:2026 14:04:11,461,ASSIGNMENT - Approved,Wild West Bank,Walmart,Declined - Invalid Bank or Card Information.
+04:25:2026 14:04:24,462,ASSIGNMENT - INSUFFICIENT_FUNDS,Jeffs Bank,Walmart,Declined - Insufficient Funds.
+04:25:2026 14:04:24,463,ASSIGNMENT - Approved,Tophers Bank,Costco,Declined - Invalid Bank or Card Information.
+04:25:2026 14:04:25,464,ASSIGNMENT - Approved,CaliBear,Riggattis Pizza,Declined - Invalid Merchant Credentials.
+04:25:2026 14:04:26,465,ASSIGNMENT - Approved,Wild West Bank,Walmart,Declined - Invalid Bank or Card Information.
+04:25:2026 14:04:26,466,ASSIGNMENT - Approved,Tophers Bank,Judds Store,Declined - Invalid Bank or Card Information.
+04:25:2026 14:04:27,467,ASSIGNMENT - Approved,CaliBear,Smiths,Declined - Invalid Merchant Credentials.
+04:25:2026 14:04:27,468,ASSIGNMENT - Approved,Jeffs Bank,Costco,Approved.
+04:25:2026 14:04:28,469,ASSIGNMENT - Approved,Wild West Bank,Swig,Declined - Invalid Bank or Card Information.
+04:25:2026 14:04:28,470,ASSIGNMENT - BAD_TOKEN,Tophers Bank,Smiths,Declined - Invalid Merchant Credentials.
+04:25:2026 14:04:55,471,ASSIGNMENT - Approved,Jeffs Bank,Costa Vida,Error - Bank Not Available.
+04:25:2026 14:04:55,472,ASSIGNMENT - Approved,Tophers Bank,Swig,Declined - Invalid Bank or Card Information.
+04:25:2026 14:04:56,473,ASSIGNMENT - Approved,Corbin Bank,Pizza Factory,Declined - Invalid Bank or Card Information.
+04:25:2026 14:05:23,474,ASSIGNMENT - Approved,Jeffs Bank,Smiths,Error - Bank Not Available.
+04:25:2026 14:05:23,475,ASSIGNMENT - Approved,Jeffs Bank,Swig,Approved.
+04:25:2026 14:05:24,476,ASSIGNMENT - Approved,Wild West Bank,Costco,Declined - Invalid Bank or Card Information.
+04:25:2026 14:05:24,477,ASSIGNMENT - Approved,Tophers Bank,Bear Paw Cafe,Declined - Invalid Bank or Card Information.
+04:25:2026 14:05:30,478,ASSIGNMENT - Approved,Jeffs Bank,Costco,Declined - Insufficient Funds.
+04:25:2026 14:05:30,479,ASSIGNMENT - Approved,Wild West Bank,Walmart,Declined - Invalid Bank or Card Information.
+04:25:2026 14:05:36,480,ASSIGNMENT - Approved,Jeffs Bank,Tifinys Creperie,Approved.
+04:25:2026 14:06:00,481,ASSIGNMENT - Approved,Jeffs Bank,Walmart,Declined - Insufficient Funds.
+04:25:2026 14:06:00,482,ASSIGNMENT - Approved,Jeffs Bank,Smiths,Declined - Insufficient Funds.
+04:25:2026 14:06:06,483,ASSIGNMENT - Approved,Jeffs Bank,Walmart,Declined - Insufficient Funds.
+04:25:2026 14:06:07,484,ASSIGNMENT - Approved,Tophers Bank,Walmart,Declined - Invalid Bank or Card Information.
+04:25:2026 14:06:07,485,ASSIGNMENT - Approved,Jeffs Bank,Costco,Declined - Insufficient Funds.
+04:25:2026 14:06:08,486,ASSIGNMENT - Approved,CaliBear,Cappellettis,Declined - Invalid Merchant Credentials.
+04:25:2026 14:06:08,487,ASSIGNMENT - Approved,Tophers Bank,Costa Vida,Declined - Invalid Bank or Card Information.
+04:25:2026 14:06:09,488,ASSIGNMENT - Approved,Wild West Bank,Cafe Rio,Declined - Invalid Bank or Card Information.
+04:25:2026 14:06:09,489,ASSIGNMENT - Approved,Wild West Bank,Arctic Circle,Declined - Invalid Bank or Card Information.
+04:25:2026 14:06:10,490,ASSIGNMENT - Approved,Tophers Bank,Smiths,Declined - Invalid Bank or Card Information.
+04:25:2026 14:06:11,491,ASSIGNMENT - Approved,Jeffs Bank,Tommys Express Car Wash,Declined - Insufficient Funds.
+04:25:2026 14:06:23,492,ASSIGNMENT - Approved,Jeffs Bank,Walmart,Approved.
+04:25:2026 14:06:24,493,ASSIGNMENT - Approved,Tophers Bank,Walmart,Declined - Invalid Bank or Card Information.
+04:25:2026 14:06:24,494,ASSIGNMENT - Approved,Wild West Bank,Costco,Declined - Invalid Bank or Card Information.
+04:25:2026 14:06:25,495,ASSIGNMENT - Approved,Tophers Bank,Walmart,Declined - Invalid Bank or Card Information.
+04:25:2026 14:06:26,496,ASSIGNMENT - Approved,Corbin Bank,Walmart,Declined - Invalid Bank or Card Information.
+04:25:2026 14:06:53,497,ASSIGNMENT - INSUFFICIENT_FUNDS,Jeffs Bank,Costco,Error - Bank Not Available.
+04:25:2026 14:06:53,498,ASSIGNMENT - Approved,Tophers Bank,Swig,Declined - Invalid Bank or Card Information.
+04:25:2026 14:06:54,499,ASSIGNMENT - Approved,Corbin Bank,Taco Amigo,Declined - Invalid Bank or Card Information.
+04:25:2026 14:07:20,500,ASSIGNMENT - Approved,Jeffs Bank,Desert Rat,Error - Bank Not Available.
