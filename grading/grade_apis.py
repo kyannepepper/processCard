@@ -2,20 +2,22 @@
 """
 Grade student payment-processing APIs.
 
-Expected files in the current working directory:
-- urls.txt                student names + urls
-- bank_test_accounts_all_strings.csv
-- merchants.csv
+Default paths (relative to the repository root):
+- text/urls.txt
+- data/bank_test_accounts_all_strings.csv
+- data/merchants.csv
+
+Report is written to grading/grading_report.txt by default.
 
 This script:
-1. Reads the student endpoints from urls.txt
+1. Reads the student endpoints from the urls file (default: text/urls.txt)
 2. Builds a set of good and bad requests
 3. Sends each request to each student endpoint
 4. Produces a readable report and a pass/fail summary
 
-Usage:
-    python grade_apis.py
-    python grade_apis.py --urls urls.txt --report grading_report.txt
+Usage (from repo root):
+    python grading/grade_apis.py
+    python grading/grade_apis.py --urls text/urls.txt --report grading/grading_report.txt
 
 Notes:
 - This script is intentionally fuzzy about response message matching.
@@ -40,6 +42,8 @@ import requests
 
 
 DEFAULT_TIMEOUT = 8
+_GRADING_DIR = Path(__file__).resolve().parent
+_REPO_ROOT = _GRADING_DIR.parent
 
 
 @dataclass
@@ -464,10 +468,26 @@ def build_student_report(student: StudentEndpoint,
 
 def main() -> int:
     parser = argparse.ArgumentParser(description="Grade student card-processing APIs")
-    parser.add_argument("--urls", default="urls.txt", help="Path to urls.txt")
-    parser.add_argument("--accounts", default="bank_test_accounts_all_strings.csv", help="Path to bank account CSV")
-    parser.add_argument("--merchants", default="merchants.csv", help="Path to merchants CSV")
-    parser.add_argument("--report", default="grading_report.txt", help="Output report filename")
+    parser.add_argument(
+        "--urls",
+        default=str(_REPO_ROOT / "text" / "urls.txt"),
+        help="Path to urls.txt",
+    )
+    parser.add_argument(
+        "--accounts",
+        default=str(_REPO_ROOT / "data" / "bank_test_accounts_all_strings.csv"),
+        help="Path to bank account CSV",
+    )
+    parser.add_argument(
+        "--merchants",
+        default=str(_REPO_ROOT / "data" / "merchants.csv"),
+        help="Path to merchants CSV",
+    )
+    parser.add_argument(
+        "--report",
+        default=str(_GRADING_DIR / "grading_report.txt"),
+        help="Output report filename",
+    )
     parser.add_argument("--timeout", type=int, default=DEFAULT_TIMEOUT, help="Per-request timeout in seconds")
     args = parser.parse_args()
 
@@ -482,7 +502,7 @@ def main() -> int:
 
     students = parse_urls_file(urls_path)
     if not students:
-        print("No valid student URLs found in urls.txt", file=sys.stderr)
+        print("No valid student URLs found in the urls file", file=sys.stderr)
         return 1
 
     accounts = load_csv_rows(accounts_path)

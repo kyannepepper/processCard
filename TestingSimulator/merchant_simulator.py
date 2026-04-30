@@ -18,7 +18,8 @@ API_URL = os.environ.get(
     "MERCHANT_SIMULATOR_API_URL",
     "https://eniunn0qta.execute-api.us-west-2.amazonaws.com/default/processCard",
 )
-LOG_FILE = "transaction_log.txt"
+LOG_FILE = os.path.join(os.path.dirname(__file__), "..", "text", "transaction_log.txt")
+LOG_FILE = os.path.normpath(LOG_FILE)
 
 # (connect seconds, read seconds). Lambda + bank retries can exceed 30s; 15s read often times out.
 REQUEST_TIMEOUT = (15, 120)
